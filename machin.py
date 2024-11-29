@@ -41,3 +41,6 @@ for loop in range(len(name1)):
         merge=""
         
 print(nameF)
+for loop in range(len(namef)):
+    namenow=nameF[loop]
+    sleep(5)
